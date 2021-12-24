@@ -2,7 +2,7 @@
 - 🌱 Computer Science (BS) Student
 - 👀 I’m interested in pentesting & emulation
 - ✨ Some things I've worked on
-  - FRC Robots: [Capture/Replay Autonomous System](https://github.com/lukesnc/capture-replay-auto)
+  - FRC Team 3229: [Capture/Replay Autonomous System](https://github.com/lukesnc/capture-replay-auto)
 
 
 <!---
