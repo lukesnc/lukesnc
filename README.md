@@ -2,7 +2,11 @@
 - 🌱 Computer Science (BS) Student
 - 👀 I’m interested in pentesting & emulation
 - ✨ Some things I've worked on
-  - FRC Team 3229: [Capture/Replay Autonomous System](https://github.com/lukesnc/capture-replay-auto)
+  - FIRST Robotics Competition Team 3229
+   * [2019-20 Season Robot Code](https://github.com/Team3229/Hawktimus19-20)
+   * [2018-19 Season Robot Code](https://github.com/Team3229/Hawktimus18-19)
+   * [2017-18 Season Robot Code](https://github.com/Team3229/Hawktimus17-18)
+   * [Capture/Replay Autonomous System](https://github.com/lukesnc/capture-replay-auto)
 
 
 <!---
