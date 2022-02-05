@@ -7,6 +7,7 @@
     - [2019-20 Season Robot Code](https://github.com/Team3229/Hawktimus19-20)
     - [2018-19 Season Robot Code](https://github.com/Team3229/Hawktimus18-19)
     - [2017-18 Season Robot Code](https://github.com/Team3229/Hawktimus17-18)
+   - 🎮 My Own [CHIP-8 Emulator](https://github.com/lukesnc/chip8)
 
 
 <!---
