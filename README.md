@@ -1,14 +1,11 @@
-- 👋 Hi, I’m Luke
-- 🏫 Computer Science (BS) Student
-- 👀 I’m interested in pentesting & emulation
-- ✨ Some things I've worked on
-  - 🤖 FIRST Robotics Competition Team 3229 Hawktimus Prime
-    - [Capture/Replay Autonomous System](https://github.com/lukesnc/capture-replay-auto)
-    - [2019-20 Season Robot Code](https://github.com/Team3229/Hawktimus19-20)
-    - [2018-19 Season Robot Code](https://github.com/Team3229/Hawktimus18-19)
-    - [2017-18 Season Robot Code](https://github.com/Team3229/Hawktimus17-18)
-   - 🎮 My Own [CHIP-8 Emulator](https://github.com/lukesnc/chip8)
+### lukesnc
 
+It's called we do a little coding.
+
+Fun Facts
+
+- Fond of low level things
+- I use Arch, btw
 
 <!---
 lukesnc/lukesnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
