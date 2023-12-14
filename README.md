@@ -4,7 +4,7 @@ It's called we do a little coding.
 
 Fun Facts
 
-- Fond of low level things
+- Fond of low level
 - I use Arch, btw
 
 <!---
