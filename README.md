@@ -5,7 +5,7 @@ It's called we do a little coding.
 Fun Facts
 
 - Fond of low level
-- I use Arch, btw
+- I use Arch (btw)
 
 <!---
 lukesnc/lukesnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
